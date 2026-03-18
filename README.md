@@ -1,7 +1,3 @@
-To make your README professional and "recruiter-ready," we should add visual elements, clear sections for the dataset, and a more structured explanation of the Machine Learning logic.
-
-Copy and paste this improved version into your README.md file:
-
 🎬 Movie Matcher: AI-Powered Recommendation System
 Movie Matcher is a content-based recommendation engine that suggests films based on their "DNA"—a combination of genres, plot summaries, lead actors, and directors. It transforms text data into mathematical vectors to find the closest matches to your favorite movies.
 
