@@ -27,7 +27,7 @@ Similarity Matrix: We calculate the cosine distance between every movie vector.
 🛠️ Installation & Setup
 1. Clone the Repository
 Bash
-git clone https://github.com/YOUR_USERNAME/Movie-Recommender-System.git
+git clone https://github.com/VyomM005/Movie-Recommender-System.git
 cd Movie-Recommender-System
 2. Create Virtual Environment
 Bash
